@@ -4,6 +4,9 @@ This data is used to get label data of BIO format.
 The code is an algorithm of automated generation labels of BIO format.
 
 Contact:
+
 Xiaolong Wang
+
 E-mail: xiaolong.wang@tuwien.ac.at
+
 Lanzhou University
