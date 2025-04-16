@@ -1,3 +1,4 @@
-This is a txt datasets from Xiaolong Wang's PhD thesis.
-This data is used to get label data of BIO format in Section 2 of his PhD thesis.
+This is a txt datasets from Xiaolong Wang's research project.
+It is used to solve the challenges of how to translante spatial direction relations into we-map-making.
+This data is used to get label data of BIO format.
 The code is an algorithm of automated generation labels of BIO format.
